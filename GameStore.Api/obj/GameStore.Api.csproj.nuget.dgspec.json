@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
+    "c:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
+    "c:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "c:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "c:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\ARNZ-H\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "c:\\Users\\ARNZ-H\\Desktop\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
