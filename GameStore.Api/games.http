@@ -1,0 +1,29 @@
+get http://localhost:5110/games
+
+###
+get http://localhost:5110/games/2
+
+###
+POST http://localhost:5110/games
+Content-Type: application/json
+
+{
+    "name" : "Call of Duty: Warzone",
+    "genre" : "FPS", 
+    "price" : 20.00, 
+    "releaseDate" : "2020-03-10"
+} 
+
+###
+PUT http://localhost:5110/games/2
+Content-Type: application/json
+
+{
+    "name": "The Witcher 2: Wild Hunt",
+    "genre": "RPG",
+    "price": 19.99,
+    "releaseDate": "2015-05-19"
+}
+
+###
+DELETE http://localhost:5110/games/2
