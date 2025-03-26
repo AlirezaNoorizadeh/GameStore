@@ -27,3 +27,9 @@ C:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.p
 C:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\ref\GameStore.Api.dll
 c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
+c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\bin\Debug\net9.0\MinimalApis.Extensions.dll
+c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\bin\Debug\net9.0\MiniValidation.dll
+c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.csproj.AssemblyReference.cache
+c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\ARNZ-H\Desktop\GameStore\GameStore.Api\obj\Debug\net9.0\GameStor.5118A84D.Up2Date

@@ -16,7 +16,9 @@ public static class GamesEndpoints
 
     public static RouteGroupBuilder MapGamesEndpoints(this WebApplication app)
     {
-        var group = app.MapGroup("games");
+        // .WithParameterValidation() is an extension method from the MinimalApis.Extensions 
+        // NuGet package for enabling DTO annotation validation.
+        var group = app.MapGroup("games").WithParameterValidation();
 
         //GET /games
         group.MapGet("/", () => games);
@@ -35,6 +37,12 @@ public static class GamesEndpoints
         //POST /games
         group.MapPost("/", (CreateGameDto newGame) =>
         {
+            //simple validation (not recommended)
+            // if (string.IsNullOrEmpty(newGame.Name))
+            // {
+            //     return Results.BadRequest("Name is required");
+            // }
+
             GameDto game = new(
                 games.Count + 1,
                 newGame.Name,
