@@ -1,0 +1,5 @@
+GameStore.Api/Data/Migrations/20250326102345_InitialCreate.cs
+GameStore.Api/Data/Migrations/20250326102345_InitialCreate.Designer.cs
+GameStore.Api/Data/Migrations/20250326111346_SeedGenres.cs
+GameStore.Api/Data/Migrations/20250326111346_SeedGenres.Designer.cs
+GameStore.Api/Data/Migrations/GameStoreContextModelSnapshot.cs
