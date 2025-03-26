@@ -8,10 +8,10 @@ POST http://localhost:5110/games
 Content-Type: application/json
 
 {
-    "name" : "Call of Duty: Warzone",
-    "genre" : "FPS", 
-    "price" : 20.00, 
-    "releaseDate" : "2020-03-10"
+    "name" : "Call of Duty 22",
+    "genreId" : 3, 
+    "price" : 2.00, 
+    "releaseDate" : "2000-03-10"
 } 
 
 ###
@@ -20,7 +20,7 @@ Content-Type: application/json
 
 {
     "name": "The Witcher 2: Wild Hunt",
-    "genre": "RPG",
+    "genreId": 1,
     "price": 19.99,
     "releaseDate": "2015-05-19"
 }
